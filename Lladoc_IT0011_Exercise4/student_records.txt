@@ -1,0 +1,5 @@
+{'id': '000001', 'name': ('Eadward', 'Lladoc'), 'class_standing': 3.65, 'major_exam': 94.0}
+{'id': '000002', 'name': ('Andrei', 'Yojj'), 'class_standing': 3.9, 'major_exam': 98.0}
+{'id': '000003', 'name': ('EA', 'Dones'), 'class_standing': 3.48, 'major_exam': 92.0}
+{'id': '000004', 'name': ('Ead', 'Ward'), 'class_standing': 3.16, 'major_exam': 90.0}
+{'id': '000005', 'name': ('Idward', 'Rei'), 'class_standing': 2.5, 'major_exam': 86.0}
